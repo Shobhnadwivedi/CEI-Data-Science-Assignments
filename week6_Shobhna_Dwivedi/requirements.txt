@@ -1,0 +1,8 @@
+numpy
+matplotlib
+streamlit
+pillow
+scikit-image
+jupyter
+tensorflow-macos
+tensorflow-metal

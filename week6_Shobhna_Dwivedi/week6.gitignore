@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained model + generated artefacts (regenerate with train.py)
+*.keras
+*.h5
+results.png
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
